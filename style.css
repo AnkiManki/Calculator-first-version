@@ -1,0 +1,70 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: white;
+	background-color: gray;
+}
+
+button {
+	
+	color: black;
+	padding: 10px;
+		
+}
+
+td {
+	text-align: center;
+}
+
+table{
+		border: 5px solid black;
+		color: white;
+		float: left;
+		margin: 20px;
+}
+
+#screen {
+	
+	height: 50px;
+	background-color: #4c4c4c;
+}
+
+.zero {
+	width: 70px;
+}
+
+.clear {
+	width: 110px;
+	background-color: #e0e0e0;
+}
+
+#btnMultiply {
+	background-color: #f5923d;
+}
+
+#btnDivide{
+	background-color: #f5923d;
+}
+
+#btnPlus{
+	background-color: #f5923d;
+}
+
+#btnMinus{
+	background-color: #f5923d;
+}
+
+#btnEqual{
+	background-color: #f5923d;
+}
+
+.kopce {
+	background-color: #e0e0e0;
+}
+
+.zero{
+	background-color: #e0e0e0;
+}
+
+#btnComa {
+	background-color: #e0e0e0;
+}
